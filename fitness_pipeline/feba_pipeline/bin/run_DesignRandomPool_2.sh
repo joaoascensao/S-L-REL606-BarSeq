@@ -1,0 +1,3 @@
+perl DesignRandomPool.pl -pool ../../pools_tnseq2/L.pool -genes ../../genes_REL606.tab ../../pools_tnseq2/IT001.map ../../pools_tnseq2/IT002.map
+perl DesignRandomPool.pl -pool ../../pools_tnseq2/R.pool -genes ../../genes_REL606.tab ../../pools_tnseq2/IT003.map ../../pools_tnseq2/IT004.map
+perl DesignRandomPool.pl -pool ../../pools_tnseq2/S.pool -genes ../../genes_REL606.tab ../../pools_tnseq2/IT005.map ../../pools_tnseq2/IT006.map
